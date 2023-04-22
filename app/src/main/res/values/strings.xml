@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">carritosV2</string>
+    <string name="hint_vueltas">Vueltas:</string>
+    <string name="hint_salida_falso">salida en falso:</string>
+    <string name="btn_guardar">Guardar Carrera:</string>
+
+</resources>
